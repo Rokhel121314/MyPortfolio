@@ -1,0 +1,58 @@
+.body {
+    margin:0;
+    
+}
+.navigationbar {
+    max-height: auto;
+}
+
+.aboutme-container {
+    min-height: 100vh;
+    /* background-image: url(/photos/constant-loubier-4tF8ZAMUE1g-unsplash.jpg);
+    background-size:cover; */
+}
+
+.portfolio-container {
+    min-height:100vh;
+    /* background-image: url(/photos/constant-loubier-4tF8ZAMUE1g-unsplash.jpg);
+    background-size:cover; */
+}
+/* .container-fluid {
+    background-image: url(/photos/constant-loubier-4tF8ZAMUE1g-unsplash.jpg);
+    background-size:cover;
+} */
+/* .navigationbar {
+    height:100vh;
+} */
+/* .profile-greeting {
+    height:75vh;
+} */
+/* .myphoto {
+    width: auto;
+    /* box-shadow: 10px 10px 10px 10px rgba(255,255,255, .5); */
+    /* border-radius:50%; */
+.photo1 {
+    width: 100%;
+}
+.thecarousel {
+    position:absolute;
+    top:30vh;
+}
+.navbar {
+    box-shadow:0px 4px 15px 0px rgba(255, 255, 255, 0.1);
+}
+.nav-spacer {
+    height:9vh;
+}
+
+.contacts {
+    min-height:85vh;
+}
+.spacer {
+    height:50px;
+}
+.form-control {
+    height:100px;
+}
+
+    
